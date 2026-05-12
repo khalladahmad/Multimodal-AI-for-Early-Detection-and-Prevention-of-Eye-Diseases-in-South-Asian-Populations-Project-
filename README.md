@@ -1,5 +1,5 @@
 # Multimodal-AI-for-Early-Detection-and-Prevention-of-Eye-Diseases-in-South-Asian-Populations-Project-
-# 👁️ EyeGuard — Multimodal AI Eye Disease Detection System
+
 
 > **Final Year Project (FYP) — Phase 3**  
 > A mobile-first, AI-powered platform for early detection of ocular diseases using multimodal deep learning, explainable AI (XAI), and tele-ophthalmology.
@@ -316,5 +316,5 @@ The frontend follows an OOP component architecture with abstract base classes fo
 ## License
 
 This project is developed as a Final Year Project (FYP) for academic purposes.  
-© 2025 EyeGuard Team. All rights reserved.
+© 2025 Mutimodal AI for Early Detection and Prevention of Eye Diseases in South Asian Population Team. All rights reserved.
 
