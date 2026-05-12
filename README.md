@@ -1,7 +1,4 @@
 # Multimodal-AI-for-Early-Detection-and-Prevention-of-Eye-Diseases-in-South-Asian-Populations-Project-
-
-
-> **Final Year Project (FYP) — Phase 3**  
 > A mobile-first, AI-powered platform for early detection of ocular diseases using multimodal deep learning, explainable AI (XAI), and tele-ophthalmology.
 
 ---
